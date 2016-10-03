@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kaly Dumesnil, Computer Science student"
+title: "Site launched!"
 date: 2016-10-16
 ---
 
