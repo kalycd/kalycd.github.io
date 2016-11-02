@@ -42,3 +42,10 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.jumbotron {
+    background-image: 
+        url('http://shushi168.com/wallpaper-abstract/36169023.html');
+    background-position: center top;
+    background-size: cover;
+}
